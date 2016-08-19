@@ -1,5 +1,5 @@
 cars = 100
-space_in_a_car = 4.0
+space_in_a_car = 4 # changed 4.0 to .0 to see it affect carpool_capacity 120.0 to 120
 drivers = 30
 passengers = 90
 cars_not_driven = cars - drivers
