@@ -36,3 +36,5 @@ puts w + e
 # string/variable x gets put into "I said" string
 # strings/variables "binary" and "don't" get put into y string/variable and that
 #  gets put into "I also said" string
+
+# if you use ' and not " when you get to a conjunction the rest of the code is junk
