@@ -31,3 +31,8 @@ e = "a string with a right side."
 
 # prints strings w and e
 puts w + e
+
+
+# string/variable x gets put into "I said" string
+# strings/variables "binary" and "don't" get put into y string/variable and that
+#  gets put into "I also said" string
