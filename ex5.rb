@@ -1,7 +1,7 @@
 name = 'Jacob C. Carroll'
 age = 33
 height = 71 * 2.54
-weight = 360 * 0.45
+weight = 358 * 0.45
 eyes = 'Brown'
 teeth = 'White'
 hair = 'Brown'
