@@ -14,3 +14,8 @@ puts "There will be #{cars_not_driven} empty cars today."
 puts "We can transport #{carpool_capacity} people today."
 puts "We have #{passengers} to carpool today"
 puts "We need to put about #{average_passengers_per_car} in each car."
+
+# ex4.rb:14: undefined local variable or method `carpool_capacity' for main:Object (NameError)
+
+# the above error code is letting it be known that in ex4.rb on line 14 there is 
+# a discrepancy between the name used there and the variable set up beforehand
