@@ -1,6 +1,7 @@
 # the next 3 puts are just strings
 puts "Mary had a little lamb."
-puts "Its fleece was white as #{'snow'}." # #{'snow'} will do nothing it has not have "" around it
+puts "Its fleece was white as #{'snow'}." # #{'snow'} will do nothing it does 
+# not have "" around it
 puts "And everywhere that Mary went."
 # 10 .
 puts "." * 10 
