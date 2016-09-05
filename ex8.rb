@@ -1,3 +1,4 @@
+# just dropped that out of the sky. no word on what a formatter is?!
 formatter = "%{first} %{second} %{third} %{fourth}"
 
 puts formatter % {first: 1, second: 2, third: 3, fourth: 4}
